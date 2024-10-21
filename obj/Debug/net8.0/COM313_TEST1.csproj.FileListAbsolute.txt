@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\COM313_TEST1\bin\Debug\net8.0\COM313_TEST1.exe
+C:\Users\HP\Documents\COM313_TEST1\bin\Debug\net8.0\COM313_TEST1.deps.json
+C:\Users\HP\Documents\COM313_TEST1\bin\Debug\net8.0\COM313_TEST1.runtimeconfig.json
+C:\Users\HP\Documents\COM313_TEST1\bin\Debug\net8.0\COM313_TEST1.dll
+C:\Users\HP\Documents\COM313_TEST1\bin\Debug\net8.0\COM313_TEST1.pdb
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.AssemblyInfo.cs
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.sourcelink.json
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.dll
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\refint\COM313_TEST1.dll
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.pdb
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\COM313_TEST1.genruntimeconfig.cache
+C:\Users\HP\Documents\COM313_TEST1\obj\Debug\net8.0\ref\COM313_TEST1.dll
